@@ -1,0 +1,23 @@
+.tools {
+    margin-top: 20px;
+    .dept-btn {
+        width: 130px;
+        margin-left: 10px;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
+    }
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.page {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%)
+}
